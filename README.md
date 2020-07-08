@@ -2,7 +2,7 @@
 ```lua
 Still in progress for my dissertation
 ```
-### This is the trained weights and the examlple also in it
+### Trained weights and an examlple
 
 see 'main_example'
 
